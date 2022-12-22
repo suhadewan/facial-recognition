@@ -1,4 +1,4 @@
-# Simple facial recognision script
+# Simple facial recognition script
 
 # Run instructions
 - install these packages: cmake, dlib, face_recognition, numpy, opencv-python
