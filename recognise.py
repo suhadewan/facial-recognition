@@ -59,6 +59,6 @@ def classify_face(im):
             return names 
 
 
-print(classify_face("recognize.jpg"))
+print(classify_face("test.jpg"))
 
 
